@@ -1,0 +1,115 @@
+<html>
+   <head> <title>Menu</title></head>
+   <style>
+   table,tr,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+   }</style>
+   <body>
+    <h1><center><i>Mehfil</i></center></h1>
+    <p><b><center>Near Pragathi college;Dilshuknagar;Hyderabad.</center></b></p>
+    <hr><hr><h2><center>MENU</center></h2><hr><hr>
+    <h3 style="background-color: red;"><center>VEG ITEMS</center></h3>
+<table text align="center">
+    <tr>
+        <th>Item Name</th>
+        <th>Single</th>
+        <th>FULL</th>
+        <th>Images</th>
+        </tr>
+        <tr>
+  <td> Veg Biryani </td>
+  <td>&nbsp;&nbsp;&nbsp;&nbsp;90/-Rs</td>
+  <td>&nbsp;&nbsp;&nbsp;120/-Rs.</td>
+  <td><img src="https://tse4.mm.bing.net/th?id=OIP.QFDBM42TfoZWHxWorVAOMwHaFj&pid=Api&P=0&h=180" width="40" height="40"></td>
+        </tr>
+        <tr>
+ <td> Palak Paneer</td>
+ <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_</td>
+ <td>&nbsp;&nbsp;&nbsp;&nbsp;60/-Rs.</td>
+ <td>    <img src="https://tse3.mm.bing.net/th?id=OIP.c8HUEiCEdrBzo-zgSQBJ2QHaHa&pid=Api&P=0&h=180" width="40" height="40">
+ </td>
+ </tr>
+ <tr>
+  <td> Chapathi</td>
+  <td>(2pcs)20/-Rs</td>
+  <td>(4pcs)40/-Rs</td>
+  <td>    <img src="https://www.fabhotels.com/blog/wp-content/uploads/2018/09/Veg-restaurants.jpg" width="40" height="40">
+  </td>
+  </tr>
+  <tr>
+   <td>Chole Bature</td>
+   <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_</td>
+   <td>&nbsp;&nbsp;&nbsp;180/-Rs.</td>  
+   <td>    <img src="https://foodiewish.com/wp-content/uploads/2020/03/Vegetarian-dishes-foodiewish.jpg" width="40" height="40">
+   </td></tr>
+   <tr>
+    <td>Veg Thali</td>
+    <td>&nbsp;&nbsp;&nbsp;100/-Rs</td>
+    <td>&nbsp;&nbsp;&nbsp;200/-Rs.</td>
+<td>    <img src="https://www.crazymasalafood.com/wp-content/images/the-20-best-vegetarian-restaurants-in-chennai/jalpaan.jpg" width="40" height="40">
+</td></tr>
+</table>
+
+    <h3 style="background-color: red;"><center>
+        NON-VEG ITEMS</center></h3>
+</center><table text align="center">
+    <tr>
+        <th>Item Name</th>
+        <th>Single</th>
+        <th>FULL</th>
+        <th>Images</th>
+        </tr>
+        <tr>
+  <td> Chicken Biryani </td>
+  <td>&nbsp;&nbsp;&nbsp;&nbsp;90/-Rs</td>
+  <td>&nbsp;&nbsp;&nbsp;150/-Rs.</td>
+  <td>    <img src="https://tse2.explicit.bing.net/th?id=OIP.CddXDKNH4yDxmSW0qgV8LgHaFC&pid=Api&P=0&h=180" width="40" height="40">
+  </td>
+        </tr>
+        <tr>
+ <td>Rumali Roti</td>
+ <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_</td>
+ <td>&nbsp;&nbsp;&nbsp;&nbsp;60/-Rs.</td>
+ <td>    <img src="https://i.pinimg.com/originals/f9/cd/83/f9cd83cc57e3662d207fa6cfd7e8146c.jpg" width="40" height="40">
+ </td>
+ </td>
+ </tr>
+ <tr>
+  <td> Drill Chicken</td>
+  <td>(2pcs)100/-Rs</td>
+  <td>(4pcs)200/-Rs</td>
+  <td>    <img src="https://img1.exportersindia.com/product_images/bc-full/dir_106/3177803/non-veg-food-spices-1263588.jpg" width="40" height="40">
+  </td>
+  </td>
+  </tr>
+  <tr>
+   <td>Fish Fry</td>
+   <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_</td>
+   <td>&nbsp;&nbsp;&nbsp;180/-Rs.</td>  
+
+   <td>    <img src="https://tse1.mm.bing.net/th?id=OIP.Wky3ZrlUmU0kZZ7KHMFKigAAAA&pid=Api&P=0&h=180" width="40" height="40">
+   </td>
+   </td></tr>
+   <tr>
+    <td>Veg Thali</td>
+    <td>&nbsp;&nbsp;&nbsp;100/-Rs</td>
+    <td>&nbsp;&nbsp;&nbsp;200/-Rs.</td>
+    <td>    <img src="https://thaali2go.com/wp-content/uploads/2018/01/South-Indian-Non-Veg-Thaali.jpg" width="40" height="40">
+    </td>
+</tr>
+</table>
+
+  
+
+<p><h3>Address:</h3>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3807.909050184442!2d78.51935777491907!3d17.36810890336067!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb993f811fa971%3A0xd291aad7fa26d007!2sMehfil%20restaurant!5e0!3m2!1sen!2sin!4v1692716111857!5m2!1sen!2sin" width="300" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
+   
+<p>&#169;All these rates are included in GST-Mehfil restarunt <br>
+    <a href="./menu.html" download><button><img src="./images/download.jpg"width="20">Dowmload menu</button></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mail to:yshashi661@gmail.com" download=""><button><img src="./images/gmail.jpg" width="25" height="20">Gmail</button></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="tel:+919177958216" download=""><button><img src="./images/phone.jpg" width="25" height="20">Call</button></a>
+
+</p>
+</body>
+</html>
